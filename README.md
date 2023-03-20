@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aquajay2022.
 - 👀 I’m interested in Flight simming and programming.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on something cool and a project where I could gain more experience.
+- ⌨️ I’m looking to collaborate on something cool and a project where I could gain more experience.
 - 📫 You can reach me on Discord!
 
 <!---
